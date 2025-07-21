@@ -29,7 +29,7 @@ function GoalCard({ goal, onUpdate, onDelete }) {
       <div style={{ background: '#eee', height: '10px', width: '100%' }}>
         <div style={{ width: `${progress}%`, height: '10px', background: 'green' }}></div>
       </div>
-      <p>{completed ? '✅ Completed' : warning ? '⚠️ Warning: <30 days' : overdue ? '❌ Overdue' : `${daysLeft} days left`}</p>
+      <p>{completed ? ' Completed' : warning ? 'Warning: <30 days' : overdue ? ' Overdue' : `${daysLeft} days left`}</p>
       <input
         type="number"
         placeholder="Deposit amount"
