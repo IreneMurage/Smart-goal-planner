@@ -89,6 +89,24 @@
       "category": "Home",
       "deadline": "2025-03-31",
       "createdAt": "2024-05-15"
+    },
+    {
+      "id": "e19393d3-d533-4057-8ea3-b40493dcf4d3",
+      "name": "Renovation",
+      "targetAmount": 30000,
+      "category": "URGENT",
+      "deadline": "2025-07-03",
+      "savedAmount": 0,
+      "createdAt": "2025-07-29"
+    },
+    {
+      "id": "f0ee1120-e45e-4898-9204-94c07fc530ac",
+      "name": "School Fees",
+      "targetAmount": 50000,
+      "category": "jndedh",
+      "deadline": "2025-07-02",
+      "savedAmount": 15,
+      "createdAt": "2025-07-29"
     }
   ]
 }
